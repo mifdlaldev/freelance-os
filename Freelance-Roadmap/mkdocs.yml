@@ -20,6 +20,7 @@ theme:
 nav:
   - Home: index.md
   - Introduction:
+    - Overview: 00-introduction/README.md
     - Goals: 00-introduction/goals.md
     - Mission: 00-introduction/mission.md
     - Vision: 00-introduction/vision.md
@@ -28,30 +29,102 @@ nav:
     - Overview: 01-market-research/overview.md
     - Trends: 01-market-research/trends.md
     - Opportunities: 01-market-research/opportunities.md
-  - Roadmap:
-    - July: 02-roadmap/july.md
-    - August: 02-roadmap/august.md
-    - September: 02-roadmap/september.md
-    - October: 02-roadmap/october.md
-    - November: 02-roadmap/november.md
-    - December: 02-roadmap/december.md
+  - Methodology:
+    - Overview: 02-methodology/README.md
+    - Research Methodology: 02-methodology/research-methodology.md
+    - Scoring System: 02-methodology/scoring-system.md
+    - Data Sources: 02-methodology/data-sources.md
   - Platforms:
+    - Overview: 03-platforms/README.md
     - Upwork: 03-platforms/upwork.md
     - Fiverr: 03-platforms/fiverr.md
     - Contra: 03-platforms/contra.md
     - LinkedIn: 03-platforms/linkedin.md
     - PeoplePerHour: 03-platforms/peopleperhour.md
     - Guru: 03-platforms/guru.md
-  - Niches: 04-niches/
-  - Portfolio: 05-portfolio/
-  - Proposals: 06-proposals/
-  - Pricing: 07-pricing/
-  - Client Acquisition: 08-client-acquisition/
-  - Case Studies: 09-case-studies/
-  - Weekly Review: 10-weekly-review/
-  - Monthly Review: 11-monthly-review/
-  - Resources: 12-resources/
-  - Notes: 99-notes/
+    - Freelancer: 03-platforms/freelancer.md
+    - Wellfound: 03-platforms/wellfound.md
+    - Toptal: 03-platforms/toptal.md
+    - Arc: 03-platforms/arc.md
+    - Reddit: 03-platforms/reddit.md
+    - Facebook: 03-platforms/facebook.md
+    - Discord: 03-platforms/discord.md
+  - Roadmap:
+    - Overview: 04-roadmap/README.md
+    - July: 04-roadmap/july.md
+    - August: 04-roadmap/august.md
+    - September: 04-roadmap/september.md
+    - October: 04-roadmap/october.md
+    - November: 04-roadmap/november.md
+    - December: 04-roadmap/december.md
+  - Services:
+    - Overview: 05-services/README.md
+    - Tier 1: 05-services/tier-1.md
+    - Tier 2: 05-services/tier-2.md
+    - Tier 3: 05-services/tier-3.md
+    - Browser Automation: 05-services/browser-automation.md
+    - Workflow Automation: 05-services/workflow-automation.md
+    - CRM Automation: 05-services/crm-automation.md
+    - WhatsApp Automation: 05-services/whatsapp-automation.md
+    - AI Agent: 05-services/ai-agent.md
+  - Portfolio:
+    - Overview: 06-portfolio/README.md
+    - Strategy: 06-portfolio/portfolio-strategy.md
+    - Demo Roadmap: 06-portfolio/demo-roadmap.md
+    - GitHub: 06-portfolio/github.md
+    - Website: 06-portfolio/website.md
+    - Showcase: 06-portfolio/showcase.md
+  - Pricing:
+    - Overview: 07-pricing/README.md
+    - Indonesia: 07-pricing/indonesia.md
+    - International: 07-pricing/international.md
+    - Hourly: 07-pricing/hourly.md
+    - Fixed Price: 07-pricing/fixed-price.md
+    - Retainers: 07-pricing/retainers.md
+  - Client Acquisition:
+    - Overview: 08-client-acquisition/README.md
+    - Strategy: 08-client-acquisition/strategy.md
+    - Proposal System: 08-client-acquisition/proposal-system.md
+    - Outreach: 08-client-acquisition/outreach.md
+    - Follow-Up: 08-client-acquisition/follow-up.md
+    - Networking: 08-client-acquisition/networking.md
+    - Closing: 08-client-acquisition/closing.md
+  - Proposals:
+    - Overview: 09-proposals/README.md
+    - Upwork: 09-proposals/upwork.md
+    - Fiverr: 09-proposals/fiverr.md
+    - Contra: 09-proposals/contra.md
+    - LinkedIn: 09-proposals/linkedin.md
+    - Cold Email: 09-proposals/cold-email.md
+  - Case Studies:
+    - Overview: 10-case-studies/README.md
+    - Examples: 10-case-studies/examples.md
+  - Weekly Review:
+    - Overview: 11-weekly-review/README.md
+    - Week 1: 11-weekly-review/week-1.md
+    - Week 2: 11-weekly-review/week-2.md
+    - Week 3: 11-weekly-review/week-3.md
+    - Week 4: 11-weekly-review/week-4.md
+  - Monthly Review:
+    - Overview: 12-monthly-review/README.md
+    - July: 12-monthly-review/july.md
+    - August: 12-monthly-review/august.md
+    - September: 12-monthly-review/september.md
+    - October: 12-monthly-review/october.md
+    - November: 12-monthly-review/november.md
+    - December: 12-monthly-review/december.md
+  - Resources:
+    - Overview: 13-resources/README.md
+    - Books: 13-resources/books.md
+    - Courses: 13-resources/courses.md
+    - YouTube: 13-resources/youtube.md
+    - Communities: 13-resources/communities.md
+    - Newsletters: 13-resources/newsletters.md
+    - Tools: 13-resources/tools.md
+  - Notes:
+    - Ideas: 99-notes/ideas.md
+    - Experiments: 99-notes/experiments.md
+    - Archive: 99-notes/archive.md
 
 markdown_extensions:
   - admonition

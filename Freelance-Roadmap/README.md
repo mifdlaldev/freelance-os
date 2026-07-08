@@ -16,19 +16,33 @@ Dokumentasi strategis ini mencakup riset pasar, roadmap bulanan, strategi platfo
 ## 📁 Struktur Dokumen
 
 ```
-docs/
-├── 00-introduction/      # Goals, mission, vision, success metrics
-├── 01-market-research/   # Riset pasar freelance
-├── 02-roadmap/           # Roadmap bulanan (Juli–Desember)
-├── 03-platforms/         # Profil & strategi per platform
-├── 04-niches/            # Analisis & pemilihan niche
-├── 05-portfolio/         # Portofolio proyek
-├── 06-proposals/         # Template & strategi proposal
-├── 07-pricing/           # Strategi pricing & negosiasi
-├── 08-client-acquisition/# Strategi mendapat klien
-├── 09-case-studies/      # Studi kasus proyek
-├── 10-weekly-review/     # Review mingguan
-├── 11-monthly-review/    # Review bulanan
-├── 12-resources/         # Sumber daya & referensi
-└── 99-notes/             # Catatan pribadi
+Freelance-Roadmap/
+├── assets/                    # Aset pendukung
+│   ├── diagrams/
+│   ├── images/
+│   ├── logos/
+│   └── screenshots/
+├── templates/                 # Template reusable
+│   ├── proposal-template.md
+│   ├── case-study-template.md
+│   ├── portfolio-template.md
+│   └── report-template.md
+├── docs/
+│   ├── index.md
+│   ├── 00-introduction/       # Goals, mission, vision, success metrics
+│   ├── 01-market-research/    # Riset pasar freelance
+│   ├── 02-methodology/        # Metodologi riset & scoring
+│   ├── 03-platforms/          # Profil & strategi per platform
+│   ├── 04-roadmap/            # Roadmap bulanan (Juli–Desember)
+│   ├── 05-services/           # Layanan & tier pricing
+│   ├── 06-portfolio/          # Portofolio proyek
+│   ├── 07-pricing/            # Strategi pricing & negosiasi
+│   ├── 08-client-acquisition/ # Strategi mendapat klien
+│   ├── 09-proposals/          # Template & strategi proposal
+│   ├── 10-case-studies/       # Studi kasus proyek
+│   ├── 11-weekly-review/      # Review mingguan
+│   ├── 12-monthly-review/     # Review bulanan
+│   ├── 13-resources/          # Sumber daya & referensi
+│   └── 99-notes/              # Catatan pribadi
+└── .github/workflows/         # GitHub Actions
 ```

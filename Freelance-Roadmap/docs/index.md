@@ -12,24 +12,25 @@ Dokumen ini dirancang sebagai peta jalan terstruktur untuk membantu freelancer �
 |--------|-----|
 | **00-introduction** | Goals, mission, vision, dan success metrics |
 | **01-market-research** | Riset pasar freelance & tren industri |
-| **02-roadmap** | Rencana aksi bulanan (Juli–Desember) |
+| **02-methodology** | Metodologi riset, scoring, dan data sumber |
 | **03-platforms** | Strategi per platform freelance |
-| **04-niches** | Analisis & pemilihan niche |
-| **05-portfolio** | Kumpulan portofolio proyek |
-| **06-proposals** | Template & strategi proposal |
+| **04-roadmap** | Rencana aksi bulanan (Juli–Desember) |
+| **05-services** | Layanan & tier pricing |
+| **06-portfolio** | Strategi portofolio proyek |
 | **07-pricing** | Strategi pricing & negosiasi |
 | **08-client-acquisition** | Strategi mendapat klien |
-| **09-case-studies** | Studi kasus proyek nyata |
-| **10-weekly-review** | Catatan review mingguan |
-| **11-monthly-review** | Catatan review bulanan |
-| **12-resources** | Sumber daya & referensi |
+| **09-proposals** | Template & strategi proposal |
+| **10-case-studies** | Studi kasus proyek nyata |
+| **11-weekly-review** | Catatan review mingguan |
+| **12-monthly-review** | Catatan review bulanan |
+| **13-resources** | Sumber daya & referensi |
 | **99-notes** | Catatan pribadi |
 
 ## 🚀 Mulai Cepat
 
 1. Baca **[Goals](00-introduction/goals.md)** — tentukan targetmu
 2. Pelajari **[Market Research](01-market-research/overview.md)** — pahami pasar
-3. Ikuti **[Roadmap](02-roadmap/july.md)** — mulai dari bulan ini
+3. Ikuti **[Roadmap](04-roadmap/july.md)** — mulai dari bulan ini
 4. Setup **[Platforms](03-platforms/upwork.md)** — optimalkan profilmu
 
 ---

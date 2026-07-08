@@ -12,24 +12,35 @@ Semua dalam satu tempat, dirancang untuk dieksekusi.
 
 ```
 Freelance-Roadmap/
+├── assets/
+│   ├── diagrams/
+│   ├── images/
+│   ├── logos/
+│   └── screenshots/
+├── templates/
+│   ├── proposal-template.md
+│   ├── case-study-template.md
+│   ├── portfolio-template.md
+│   └── report-template.md
 ├── docs/
 │   ├── index.md                  # Halaman utama
 │   ├── 00-introduction/          # Goals, mission, vision, success metrics
 │   ├── 01-market-research/       # Riset pasar freelance
-│   ├── 02-roadmap/               # Roadmap bulanan (Juli–Desember)
+│   ├── 02-methodology/           # Metodologi riset & scoring
 │   ├── 03-platforms/             # Profil & strategi per platform
-│   ├── 04-niches/                # Analisis & pemilihan niche
-│   ├── 05-portfolio/             # Portofolio proyek
-│   ├── 06-proposals/             # Template & strategi proposal
+│   ├── 04-roadmap/               # Roadmap bulanan (Juli–Desember)
+│   ├── 05-services/              # Layanan & tier pricing
+│   ├── 06-portfolio/             # Portofolio proyek
 │   ├── 07-pricing/               # Strategi pricing & negosiasi
 │   ├── 08-client-acquisition/    # Strategi mendapat klien
-│   ├── 09-case-studies/          # Studi kasus proyek
-│   ├── 10-weekly-review/         # Review mingguan
-│   ├── 11-monthly-review/        # Review bulanan
-│   ├── 12-resources/             # Sumber daya & referensi
+│   ├── 09-proposals/             # Template & strategi proposal
+│   ├── 10-case-studies/          # Studi kasus proyek
+│   ├── 11-weekly-review/         # Review mingguan
+│   ├── 12-monthly-review/        # Review bulanan
+│   ├── 13-resources/             # Sumber daya & referensi
 │   └── 99-notes/                 # Catatan pribadi
 ├── mkdocs.yml                    # Konfigurasi MkDocs
-└── assets/                       # Aset pendukung
+└── .github/workflows/            # GitHub Actions
 ```
 
 ## 🚀 Cara Menggunakan
