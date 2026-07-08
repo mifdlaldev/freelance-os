@@ -1,0 +1,66 @@
+site_name: Freelance Roadmap
+site_description: Panduan lengkap perjalanan menjadi freelancer sukses
+site_author: Freelance OS
+repo_url: 
+edit_uri: ""
+
+theme:
+  name: material
+  language: id
+  palette:
+    primary: indigo
+    accent: deep purple
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Introduction:
+    - Goals: 00-introduction/goals.md
+    - Mission: 00-introduction/mission.md
+    - Vision: 00-introduction/vision.md
+    - Success Metrics: 00-introduction/success-metrics.md
+  - Market Research:
+    - Overview: 01-market-research/overview.md
+    - Trends: 01-market-research/trends.md
+    - Opportunities: 01-market-research/opportunities.md
+  - Roadmap:
+    - July: 02-roadmap/july.md
+    - August: 02-roadmap/august.md
+    - September: 02-roadmap/september.md
+    - October: 02-roadmap/october.md
+    - November: 02-roadmap/november.md
+    - December: 02-roadmap/december.md
+  - Platforms:
+    - Upwork: 03-platforms/upwork.md
+    - Fiverr: 03-platforms/fiverr.md
+    - Contra: 03-platforms/contra.md
+    - LinkedIn: 03-platforms/linkedin.md
+    - PeoplePerHour: 03-platforms/peopleperhour.md
+    - Guru: 03-platforms/guru.md
+  - Niches: 04-niches/
+  - Portfolio: 05-portfolio/
+  - Proposals: 06-proposals/
+  - Pricing: 07-pricing/
+  - Client Acquisition: 08-client-acquisition/
+  - Case Studies: 09-case-studies/
+  - Weekly Review: 10-weekly-review/
+  - Monthly Review: 11-monthly-review/
+  - Resources: 12-resources/
+  - Notes: 99-notes/
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - toc:
+      permalink: true
+
+plugins:
+  - search
